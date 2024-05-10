@@ -1,0 +1,176 @@
+﻿@model QLKS.Models.tblKhachHang
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    label.error {
+        color:red;
+    }
+</style>
+<header id="gtco-header" class="gtco-cover gtco-cover-md g-header" role="banner" style="background-image: url(/Content/Home/images/img_bg_1.jpg)" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+</header>
+<div class="container">
+    <br /><br /><br /><br />
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">Sửa thông tin cá nhân</h3>
+        </div>
+        <div class="panel-body">
+            @using (Html.BeginForm(null, null, FormMethod.Post, new { id = "form-submit" }))
+            {
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.Label("Username", htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.ma_kh, new { htmlAttributes = new { @class = "form-control" } })
+                            @*@Html.ValidationMessageFor(model => model.ma_kh, "", new { @class = "text-danger" })*@
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.Label("Password", htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.mat_khau, new { htmlAttributes = new { @class = "form-control", type = "password" } })
+                            @*@Html.ValidationMessageFor(model => model.mat_khau, "", new { @class = "text-danger" })*@
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.Label("Họ tên", htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.ho_ten, new { htmlAttributes = new { @class = "form-control" } })
+                            @*@Html.ValidationMessageFor(model => model.ho_ten, "", new { @class = "text-danger" })*@
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.Label("Số CMT", htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.cmt, new { htmlAttributes = new { @class = "form-control", @type = "number" } })
+                            @*@Html.ValidationMessageFor(model => model.cmt, "", new { @class = "text-danger" })*@
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.Label("Số ĐT", htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.sdt, new { htmlAttributes = new { @class = "form-control" } })
+                            @*@Html.ValidationMessageFor(model => model.sdt, "", new { @class = "text-danger" })*@
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        @Html.Label("Mail", htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.mail, new { htmlAttributes = new { @class = "form-control" } })
+                            @*@Html.ValidationMessageFor(model => model.mail, "", new { @class = "text-danger" })*@
+                        </div>
+                    </div>
+
+                    <div class="form-group hidden">
+                        @Html.LabelFor(model => model.diem, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.diem, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.diem, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Save" class="btn btn-default" />
+                            <a href="/" class="btn btn-primary">Back</a>
+                        </div>
+                        
+                    </div>
+                </div>
+
+            }
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        jQuery.validator.addMethod("headphone", function (value, element) {
+            var vnf_regex = /((032|033|034|035|036|037|038|039|056|058|059|070|076|077|078|079|081|082|083|084|085|086|087|088|089|090|091|092|093|094|096|097|098|099)+([0-9]{7})\b)/g;
+            return vnf_regex.test(value);
+        });
+         jQuery.validator.addMethod("rigidemail", function (value, element) {
+            var testemail = /^([^@@\s]+)@@((?:[-a-z0-9]+\.)+[a-z]{2,})$/i;
+            return testemail.test(value);
+         });
+        jQuery.validator.addMethod("matkhau", function (value, element) {
+            var testemail = /^(?=.*[A-Za-z])(?=.*\d)[a-zA-Z0-9!@@#$%^&*()~¥=_+}{":;'?/>.<,`\-\|\[\]]{6,20}$/i;
+            return testemail.test(value);
+        });
+        $("#form-submit").validate({
+            rules:
+            {
+                ma_kh: {
+                    required: true,
+                    minlength: 3,
+                },
+                sdt: {
+                    required: true,
+                    headphone: true,
+                    minlength: 10,
+                    min: 0,
+                    maxlength: 10,
+                    number: isNaN
+                },
+                mat_khau: {
+                    required: true,
+                    minlength: 6,
+                    maxlength: 20,
+                    matkhau: true,
+                },
+                mail: {
+                    required: true,
+                    rigidemail: true
+                },
+                cmt: {
+                    required: true
+                },
+                address: {
+                    maxlength:129
+                }
+            },
+            messages:
+            {
+                ma_kh: {
+                    required: "Họ tên không được để trống",
+                    minlength: "Tên tối thiểu 3 đến 20 kí tự",
+                    maxlength: "Tên tối thiểu 3 đến 20 kí tự",
+                },
+                sdt: {
+                    required: "Số điện thoại không được để trống",
+                    headphone: "Số điện thoại không hợp lệ"
+                },
+                mat_khau: {
+                    required: "Mật khẩu tối thiểu từ 6 đến 20 bao gồm ký tự đặc biệt, số, chữ; phân biệt chữ hoa chữ thường",
+                    minlength: "Mật khẩu tối thiểu từ 6 đến 20 bao gồm ký tự đặc biệt, số, chữ; phân biệt chữ hoa chữ thường",
+                    matkhau: "Mật khẩu tối thiểu từ 6 đến 20 bao gồm ký tự đặc biệt, số, chữ; phân biệt chữ hoa chữ thường",
+                    maxlength: "Mật khẩu tối thiểu từ 6 đến 20 bao gồm ký tự đặc biệt, số, chữ; phân biệt chữ hoa chữ thường",
+                },
+                mail: {
+                    required: "Email không được để trống",
+                    rigidemail: "Email không đúng định dạng",
+                },
+                cmt: {
+                    required: "Vui lòng nhập số CMT"
+                },
+                address: {
+                    maxlength: "Địa chỉ nhập không được quá 128 kí tự"
+                }
+            },
+            submitHandler: function (form) {
+                form.submit();
+            }
+        });
+    })
+</script>

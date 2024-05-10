@@ -1,0 +1,725 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|d:\\hoc-tap\\\u0111\u1ED3 \u00E1n\\doan_qlks\\05-05\\qlks\\qlks\\areas\\admin\\views\\index\\findroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\index\\findroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\phieudatphong\\selectroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\phieudatphong\\selectroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\controllers\\phieudatphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\controllers\\phieudatphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\controllers\\indexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\models\\tblphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\models\\tblphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\controllers\\home\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\controllers\\home\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\hoadon\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\hoadon\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\home\\bookroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\home\\bookroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\home\\findroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\home\\findroom.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\phieudatphong\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\phieudatphong\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\phieudatphong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\phieudatphong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\account\\canhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\account\\canhan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\account\\hoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\account\\hoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\account\\chitiethoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\account\\chitiethoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\account\\xoaphieudatphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\account\\xoaphieudatphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\account\\suaphieudatphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\account\\suaphieudatphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\account\\phieudatphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\account\\phieudatphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\banggia\\giaphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\banggia\\giaphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\home\\huychon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\home\\huychon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\home\\chonphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\home\\chonphong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\views\\home\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\khachhang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\khachhang\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\khachhang\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\khachhang\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\models\\datamodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\models\\datamodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\models\\datamodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\models\\datamodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\thongke\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\thongke\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\index\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\index\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\models\\goidichvumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\models\\goidichvumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\index\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\index\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\qlks\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26A999F6-CCC7-4A93-BD51-EAC9D95F78B2}|QLKS\\QLKS.csproj|solutionrelative:qlks\\areas\\admin\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndexController.cs",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Controllers\\IndexController.cs",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Controllers\\IndexController.cs",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Controllers\\IndexController.cs",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Controllers\\IndexController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAgwKgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:33:03.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FindRoom.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\Index\\FindRoom.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\Index\\FindRoom.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\Index\\FindRoom.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\Index\\FindRoom.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:15:26.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhieuDatPhongController.cs",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Controllers\\PhieuDatPhongController.cs",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Controllers\\PhieuDatPhongController.cs",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Controllers\\PhieuDatPhongController.cs",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Controllers\\PhieuDatPhongController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAswFkAAABWAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:12:54.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Controllers\\Home\\AccountController.cs",
+              "RelativeDocumentMoniker": "QLKS\\Controllers\\Home\\AccountController.cs",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Controllers\\Home\\AccountController.cs",
+              "RelativeToolTip": "QLKS\\Controllers\\Home\\AccountController.cs",
+              "ViewState": "AQIAAHgBAAAAAAAAAAD4v4UBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:02:42.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAADwv+UAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:38:12.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThongKeController.cs",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Controllers\\ThongKeController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAMwGcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:49:26.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAiwOwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T16:00:49.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tblPhong.cs",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Models\\tblPhong.cs",
+              "RelativeDocumentMoniker": "QLKS\\Models\\tblPhong.cs",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Models\\tblPhong.cs",
+              "RelativeToolTip": "QLKS\\Models\\tblPhong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:17:12.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectRoom.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\SelectRoom.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\SelectRoom.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\SelectRoom.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\SelectRoom.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAADwvxwAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T17:42:02.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "QLKS\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "QLKS\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAD4v9MAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:06:26.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRoom.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\BookRoom.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Home\\BookRoom.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\BookRoom.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Home\\BookRoom.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAEwBUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T16:06:34.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\List.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\List.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\List.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\List.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T16:15:53.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\HoaDon\\Add.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\HoaDon\\Add.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\HoaDon\\Add.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\HoaDon\\Add.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAiwG8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-07T16:38:47.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Web.config",
+              "RelativeDocumentMoniker": "QLKS\\Web.config",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Web.config",
+              "RelativeToolTip": "QLKS\\Web.config",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAiwFkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-11T13:59:06.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FindRoom.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\FindRoom.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Home\\FindRoom.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\FindRoom.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Home\\FindRoom.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAADwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T16:51:04.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\Create.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\Create.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\PhieuDatPhong\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T17:19:25.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CaNhan.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\CaNhan.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Account\\CaNhan.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\CaNhan.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Account\\CaNhan.cshtml",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAiwKsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:43:31.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T15:19:54.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HoaDon.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\HoaDon.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Account\\HoaDon.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\HoaDon.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Account\\HoaDon.cshtml",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAiwJQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T15:55:27.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChiTietHoaDon.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\ChiTietHoaDon.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Account\\ChiTietHoaDon.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\ChiTietHoaDon.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Account\\ChiTietHoaDon.cshtml",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAAAOYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:43:27.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "XoaPhieuDatPhong.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\XoaPhieuDatPhong.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Account\\XoaPhieuDatPhong.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\XoaPhieuDatPhong.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Account\\XoaPhieuDatPhong.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:27:38.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuaPhieuDatPhong.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\SuaPhieuDatPhong.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Account\\SuaPhieuDatPhong.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\SuaPhieuDatPhong.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Account\\SuaPhieuDatPhong.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T15:30:10.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T15:30:06.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HuyChon.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\HuyChon.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Home\\HuyChon.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\HuyChon.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Home\\HuyChon.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:43:07.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T14:02:32.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PhieuDatPhong.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\PhieuDatPhong.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Account\\PhieuDatPhong.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Account\\PhieuDatPhong.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Account\\PhieuDatPhong.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T15:56:14.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChonPhong.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\ChonPhong.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Home\\ChonPhong.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\ChonPhong.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Home\\ChonPhong.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:43:10.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:43:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GiaPhong.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\BangGia\\GiaPhong.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\BangGia\\GiaPhong.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\BangGia\\GiaPhong.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\BangGia\\GiaPhong.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T15:52:48.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAABAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:43:17.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\Chat.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Home\\Chat.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\Chat.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Home\\Chat.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T11:32:22.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\KhachHang\\Add.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T11:31:49.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\KhachHang\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\KhachHang\\Edit.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\KhachHang\\Edit.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\KhachHang\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T11:32:08.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\Result.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Views\\Home\\Result.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Views\\Home\\Result.cshtml",
+              "RelativeToolTip": "QLKS\\Views\\Home\\Result.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T11:33:19.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dataModel.Context.tt",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Models\\dataModel.Context.tt",
+              "RelativeDocumentMoniker": "QLKS\\Models\\dataModel.Context.tt",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Models\\dataModel.Context.tt",
+              "RelativeToolTip": "QLKS\\Models\\dataModel.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-19T17:17:36.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "dataModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Models\\dataModel.edmx",
+              "RelativeDocumentMoniker": "QLKS\\Models\\dataModel.edmx",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\QuanLyKhachSan\\SOURCE\\QLKS\\QLKS\\Models\\dataModel.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\QuanLyKhachSan\\SOURCE\\QLKS\\QLKS\\Models\\dataModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-04-19T17:18:22.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\Index\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\Index\\Index.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\Index\\Index.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\Index\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T16:13:34.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\ThongKe\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\ThongKe\\Index.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\ThongKe\\Index.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\ThongKe\\Index.cshtml",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAACcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T15:54:40.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GoiDichVuModel.cs",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Models\\GoiDichVuModel.cs",
+              "RelativeDocumentMoniker": "QLKS\\Models\\GoiDichVuModel.cs",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Models\\GoiDichVuModel.cs",
+              "RelativeToolTip": "QLKS\\Models\\GoiDichVuModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:34:47.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Controllers\\NhanVienController.cs",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Controllers\\NhanVienController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:35:49.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\Index\\Login.cshtml",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\Index\\Login.cshtml",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\Index\\Login.cshtml",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\Index\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T15:32:45.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\packages.config",
+              "RelativeDocumentMoniker": "QLKS\\packages.config",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\packages.config",
+              "RelativeToolTip": "QLKS\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-19T15:32:27.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\web.config",
+              "RelativeDocumentMoniker": "QLKS\\Areas\\Admin\\Views\\web.config",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Areas\\Admin\\Views\\web.config",
+              "RelativeToolTip": "QLKS\\Areas\\Admin\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-19T15:32:17.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Startup.cs",
+              "RelativeDocumentMoniker": "QLKS\\Startup.cs",
+              "ToolTip": "D:\\Hoc-Tap\\\u0110\u1ED3 \u00C1n\\DOAN_QLKS\\05-05\\QLKS\\QLKS\\Startup.cs",
+              "RelativeToolTip": "QLKS\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:58:35.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
